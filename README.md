@@ -1,32 +1,30 @@
-# Zacarias Perez — Backend Developer
+# Hey there! 👋
 
-Microservices and automation-focused developer. I build internal systems and distributed services,
-managing my own infrastructure end-to-end with Docker and Linux.
+I'm Zacarias, a backend developer based in Jalisco, Mexico.
 
----
+I mostly work on microservices and automation — building internal tools, distributed services, and pipelines that actually solve real problems. I handle my own infrastructure too, so DevOps is part of my daily workflow.
 
-## What I work with
-
-| Area | Tools |
-|---|---|
-| **Languages** | Go · TypeScript · Python · Shell |
-| **Backend** | REST APIs · Microservices · Webhooks · Redis |
-| **DevOps** | Docker · Docker Compose · WireGuard · Linux |
-| **Automation** | Shell scripting · Environment provisioning |
+Currently working at a government institution developing internal systems, and always looking for new challenges on the side.
 
 ---
 
-## Featured Projects
+## Tools & Tech
 
-- **[kali-linux-mcp](https://github.com/zac-pz/kali-linux-mcp)** — MCP server in Go that exposes Kali Linux security tools (Nmap, SQLMap, SSLScan, SSLyze) through a unified interface.
-- **[pipeline-distribuido](https://github.com/zac-pz/pipeline-distribuido)** — IoT/Edge distributed pipeline in Rust with Docker and WireGuard VPN, including network simulation with `tc netem`.
-- **[betmasters](https://github.com/zac-pz/betmasters)** — Distributed Mandelbrot fractal generator in Rust. A coordinator splits the image across workers via WebSocket, deployable over WireGuard for real multi-machine compute.
+Go, TypeScript, Python, Shell  
+Docker, Docker Compose, WireGuard, Linux  
+REST APIs, Webhooks, Redis
 
 ---
 
-## Open to
+## A Bit About Me
 
-Part-time remote opportunities in **backend development** and **process automation**.
+🎮 Currently deep into Resident Evil  
+☕ Coffee every morning, non-negotiable  
+🔧 I like building things that fix actual problems, not just cool demos  
+🤝 Always happy to connect and chat
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zac--pz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zac-pz/)
-![Location](https://img.shields.io/badge/Jalisco%2C%20Mexico-gray?style=flat)
+
+Open to part-time remote opportunities in backend and automation.
