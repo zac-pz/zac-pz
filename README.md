@@ -1,6 +1,6 @@
-# Hey there! 👋
+# Hello there! 👋
 
-I'm Zacarias, a backend developer based in Jalisco, Mexico.
+I'm Zacarias, a backend developer based in Mexico.
 
 I mostly work on microservices and automation — building internal tools, distributed services, and pipelines that actually solve real problems. I handle my own infrastructure too, so DevOps is part of my daily workflow.
 
