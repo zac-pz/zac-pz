@@ -20,7 +20,7 @@ REST APIs, Webhooks, Redis
 
 🎮 Currently deep into Resident Evil  
 ☕ Coffee every morning, non-negotiable  
-🔧 I like building things that fix actual problems, not just cool demos  
+🔧 I like building tools that solve my own problems  
 🤝 Always happy to connect and chat
 
 ---
